@@ -29,6 +29,9 @@ Lancer l'assistant :
 
 Bash
 python assistant.py
+
+PS : si vous voulez mettre un logo metait un logo au format ico qui se nome logo.ico
+
 🗣️ Exemples de commandes :
 "Assistant, verrouille l'ordinateur"
 
