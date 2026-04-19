@@ -32,7 +32,6 @@ python assistant.py
 🗣️ Exemples de commandes :
 "Assistant, verrouille l'ordinateur"
 
-"Assistant, cherche la vidéo de Fuze III en Corée du Nord"
 
 "Assistant, quel est le meilleur build sur Elden Ring ?" (Réponse par l'IA locale)
 
